@@ -6,7 +6,7 @@ ThermoGray it's a solution for detecting if a child with cancer have a fever or 
 
 ![explicaation](./assets/exp.png)
 ## Dataset's
-Link to the dataset: https://drive.google.com/open?id=1wPjucswpLydSHf8ltSjZdOSDogjDD8D3
+Link to the dataset: [dataset 1](https://drive.google.com/open?id=1hNFwT86kpOwedf3MQiTynlM2KI5_7TIv) [dataset 2](https://drive.google.com/open?id=1kRbHRcGey9K1y5uhx49jR0yYddoTy0P4)
 
 # Deep-Learning
 
